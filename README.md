@@ -23,12 +23,13 @@
 
 <p>É desafio perfeito para iniciantes, o projeto fará com que você trabalhe com um layout de duas colunas.
 O principal desafio é construir essa página e deixar o mais próximo possível do design que eles dão a você.
-E também, pode usar qualquer ferramenta para concluir o desafio. Portanto, se tem algo que você gosta ou gostaria de praticar, sinta-se à vontade para tentar.
+O importante é práticar, é um desafio.
 <br><br>O que o usuário/cliente deve conseguir usar e fazer;
+<br>
 <br>1. Visualizar o layout ideal dependendo do tamanho da tela do dispositivo. (Responsivo)
 <br>2. Veja o hover/interação ao usar os elementos, Registrar e de Redes Sociais.
 <br>
-<br> <p> Infelizmente, não tenho acesso ao projeto no Figma, então o design não é o perfeito;
+<br> <p> Infelizmente, não tenho acesso ao projeto no Figma, então o design não é o perfeito.
 
 ## :rocket: Tecnologias;
 
