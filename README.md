@@ -27,7 +27,6 @@ E também, pode usar qualquer ferramenta para concluir o desafio. Portanto, se t
 <br><br>O que o usuário/cliente deve conseguir usar e fazer;
 <br>1. Visualizar o layout ideal dependendo do tamanho da tela do dispositivo. (Responsivo)
 <br>2. Veja o hover/interação ao usar os elementos, Registrar e de Redes Sociais.
-<br>
 <br> <p> Infelizmente, não tenho acesso ao projeto no Figma, então o design não é o perfeito;
 
 🚀 Tecnologias;
