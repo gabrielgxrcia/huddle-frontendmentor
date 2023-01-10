@@ -19,7 +19,7 @@
 <br>
 <br>
 
-## Sobre o projeto;
+👨‍💻 Sobre o projeto;
 
 <p>É desafio perfeito para iniciantes, o projeto fará com que você trabalhe com um layout de duas colunas.
 O principal desafio é construir essa página e deixar o mais próximo possível do design que eles dão a você.
@@ -30,12 +30,12 @@ E também, pode usar qualquer ferramenta para concluir o desafio. Portanto, se t
 <br>
 <br> <p> Infelizmente, não tenho acesso ao projeto no Figma, então o design não é o perfeito;
 
-## Tecnologias;
+🚀 Tecnologias;
 
 - HTML5
 - CSS3
 - Flexbox
 
-## O que eu aprendi?
+📃 O que eu aprendi?
 
 Foi um projeto bom para praticar flex e tornar o projeto responsivo, usei uma propiedade inline-flex, que sabia da existência porém não tinha colocado em prática, e entendi como ela realmente funciona.
