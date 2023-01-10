@@ -19,7 +19,7 @@
 <br>
 <br>
 
-## :computer: Sobre o projeto;
+## :computer: Sobre o projeto
 
 <p>É desafio perfeito para iniciantes, o projeto fará com que você trabalhe com um layout de duas colunas.
 O principal desafio é construir essa página e deixar o mais próximo possível do design que eles dão a você.
@@ -31,7 +31,7 @@ O importante é práticar, é um desafio.
 <br>
 <br> <p> Infelizmente, não tenho acesso ao projeto no Figma, então o design não é o perfeito.
 
-## :rocket: Tecnologias;
+## :rocket: Tecnologias
 
 - HTML5
 - CSS3
