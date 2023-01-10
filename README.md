@@ -19,7 +19,7 @@
 <br>
 <br>
 
-👨‍💻 Sobre o projeto;
+## :computer: Sobre o projeto;
 
 <p>É desafio perfeito para iniciantes, o projeto fará com que você trabalhe com um layout de duas colunas.
 O principal desafio é construir essa página e deixar o mais próximo possível do design que eles dão a você.
@@ -27,14 +27,15 @@ E também, pode usar qualquer ferramenta para concluir o desafio. Portanto, se t
 <br><br>O que o usuário/cliente deve conseguir usar e fazer;
 <br>1. Visualizar o layout ideal dependendo do tamanho da tela do dispositivo. (Responsivo)
 <br>2. Veja o hover/interação ao usar os elementos, Registrar e de Redes Sociais.
+<br>
 <br> <p> Infelizmente, não tenho acesso ao projeto no Figma, então o design não é o perfeito;
 
-🚀 Tecnologias;
+## :rocket: Tecnologias;
 
 - HTML5
 - CSS3
 - Flexbox
 
-📃 O que eu aprendi?
+## :page_with_curl: O que eu aprendi?
 
 Foi um projeto bom para praticar flex e tornar o projeto responsivo, usei uma propiedade inline-flex, que sabia da existência porém não tinha colocado em prática, e entendi como ela realmente funciona.
